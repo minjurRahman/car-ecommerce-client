@@ -13,7 +13,7 @@ const BannerItem = ({slide}) => {
             <h1 className='text-6xl font-bold text-white'>
                 Affordable <br />
                 Price for Car <br />
-                Servicing
+                Servicing and Parts.
             </h1>
         </div>
         <div className="absolute flex justify-end transform -translate-y-1/2 w-2/5 left-24 top-1/2">

@@ -44,9 +44,9 @@ const Header = () => {
 
       </ul>
     </div>
-    <Link to='/' className="btn btn-ghost normal-case text-xl">
+    {/* <Link to='/' className="btn btn-ghost normal-case text-xl">
         <img src={logo} alt="" />
-    </Link>
+    </Link> */}
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal p-0">
@@ -55,7 +55,7 @@ const Header = () => {
     </ul>
   </div>
   <div className="navbar-end">
-  <button className="btn btn-outline btn-info">Appointment</button>
+  <button className="btn btn-outline btn-info">Items</button>
   </div>
 </div>
     );
